@@ -94,7 +94,7 @@ class Product
 	{
 		return this.price;
 	}
-
+// kjwbf
 
 	public void setQuantity(int qty)
 
